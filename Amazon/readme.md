@@ -10,13 +10,8 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 
 ### ${\color{lightblue} Questions \space Table}$
 
-| Serial No. | Question Name              | Link                                                                 | Solution                        | Platform      | Approaches Used                      | Basic Description                                   |
-|------------|----------------------------|----------------------------------------------------------------------|---------------------------------|---------------|---------------------------------------|---------------------------------------------------|
-| 1          | Max Rectangle in Histogram | [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/MaxRectangleHistogram.md) | LeetCode      | Stack-based solution, Divide and Conquer | Finds the largest rectangular area in a histogram |
-| 2          | Partition to K Equal Sum   | [Problem Link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/PartitionKEqualSum.md)    | LeetCode      | Backtracking, Memoization               | Divides an array into subsets of equal sums       |
-| 3          | Maximum Alternating Sum    | [Problem Link](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [Solution](./solutions/MaxAlternatingSum.md)     | LeetCode      | Dynamic Programming                      | Calculates max alternating sum of subsequences    |
-| 4          | Count Submatrices with All Ones | [Problem Link](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Solution](./solutions/CountSubmatrices.md)      | LeetCode      | Stack, Matrix Traversal                  | Counts submatrices consisting only of 1s          |
-| 5          | Exam Room Simulation       | [Problem Link](https://example.com/exam-room)                        | [Solution](./solutions/ExamRoomSimulation.md)    | Custom Problem | Priority Queue, Interval Merge           | Simulates seat allocation in an exam room         |
+| Serial No. | Question Name | Difficulty | Link | Solution | Platform | Approaches Used | Basic Description |
+|-|-|-|-|-|-|-|-|
 
 ---
 
@@ -31,9 +26,9 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 
 ### ${\color{lightblue}Credits}$
 
-This challenge is inspired by VIT Bhopal and Sriram R Sir's vision for continuous learning and excellence.
+This challenge is inspired by ***VIT Bhopal*** and ***Sriram R*** Sir's vision for continuous learning and excellence.
 
 ### ${\color{lightblue}Contributor}$
 
-- Vishu Kalier
+- ***Vishu Kalier***
 
