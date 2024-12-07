@@ -10,7 +10,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 
 ### ${\color{lightblue} Questions \space Table}$
 
-| Serial No. | Question Name | Link | Solution | Submission | Solution Approach |
+| No. | Question Name | Link | Solution | Submission | Solution Approach |
 |-|-|-|-|-|-|
 | ***1*** | ${\color{lightgreen} Diameter \space of \space Tree}$ | [Link](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Solution]() | ***07-12-2024*** | To evaluate diameter either use post order DFS with local depth and global diameter or two pass BFS. |
 | ***2*** | ${\color{yellow} Best \space Time \space to \space Buy \space and \space Sell \space stock \space II}$ | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution]() | ***07-12-2024*** | We hae three options, to either buy, sell or hold (skip) day, use recursion to find the best option, and perform 2D dp to memonize for larger inputs. |
