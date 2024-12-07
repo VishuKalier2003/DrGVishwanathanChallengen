@@ -5,9 +5,9 @@ The **Dr. G. Vishwanathan Challenge** is a self-driven initiative incorporated i
 
 ### ${\color{lightblue} Weekly \space Table}$
 
-| Week No. | Company | Logo | Folder Link | Questions |
+| Week No. | Company | Logo | Folder Link | Easy | Medium | Hard | 
 |-|-|-|-|-|
-| Week I | ${\color{lightgreen} Amazon}$ | <img src="https://th.bing.com/th?id=OIP.BhAvqPlnLGi436N6VGFwZQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="40px" height="40px" /> | [Folder](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/tree/main/Amazon) | 5 |
+| Week I | ${\color{lightgreen} Amazon}$ | <img src="https://th.bing.com/th?id=OIP.BhAvqPlnLGi436N6VGFwZQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="40px" height="40px" /> | [Folder](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/tree/main/Amazon) | ${\color{lightgreen} 1}$ | ${\color{yellow} 2}$ | ${\color{red} 2}$
 
 ---
 
