@@ -27,6 +27,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***13*** | ${\color{yellow} Matrix \space Game}$ | [Link](https://codeforces.com/problemset/problem/1365/A) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/MatrixGame.java) | • BFS • Simulation • Games |
 | ***14*** | ${\color{red} Top \space K\space Stocks \space to \space Sell}$ | [Link](https://www.naukri.com/code360/problems/top-k-stocks-to-sell_2427907?interviewProblemRedirection=true&practice_topic%5B%5D=Design&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/StocksToSell.java) | • Low Level Design • map • Maxheap • Stack |
 | ***15*** | ${\color{red} Twitter \space Application}$ | [Link](https://www.naukri.com/code360/problems/twitter-application_3651392?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard&difficulty%5B%5D=Medium&sort_entity=recents&sort_order=DESC&leftPanelTabValue=PROBLEM) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Twitter.java) | • Low Level Design • map • Set • Maxheap • Graph |
+| ***16*** | ${\color{lightgreen} Powering \space The \space Hero}$ | [Link](https://codeforces.com/problemset/problem/1800/C1) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/PoweringTheHero.java) | • Maxheap • Greedy | 
 
 
 ---
