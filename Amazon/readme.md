@@ -29,6 +29,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***15*** | ${\color{red} Twitter \space Application}$ | [Link](https://www.naukri.com/code360/problems/twitter-application_3651392?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard&difficulty%5B%5D=Medium&sort_entity=recents&sort_order=DESC&leftPanelTabValue=PROBLEM) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Twitter.java) | • Low Level Design • map • Set • Maxheap • Graph |
 | ***16*** | ${\color{lightgreen} Powering \space The \space Hero}$ | [Link](https://codeforces.com/problemset/problem/1800/C1) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/PoweringTheHero.java) | • Maxheap • Greedy | 
 | ***17*** | ${\color{lightgreen} Polycarp \space Training}$ | [Link](https://codeforces.com/problemset/problem/1165/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Sorting • Greedy | 
+| ***18*** | ${\color{yellow} Implement \space a \space Phone \space Directory}$ | [Link](https://www.naukri.com/code360/problems/implement-a-phone-directory_1062666?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Low Level Design • Trie • Map • String | 
 
 
 ---
