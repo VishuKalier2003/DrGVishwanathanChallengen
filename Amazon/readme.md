@@ -35,6 +35,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***21*** | ${\color{yellow} Cells \space not \space under \space Attack}$ | [Link](https://codeforces.com/problemset/problem/701/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_RookCells.java) | • math (nX + nY - XY) • set • Big Integer |
 | ***22*** | ${\color{yellow} Books }$ | [Link](https://codeforces.com/problemset/problem/279/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_Books.java) | • binary search • sliding window |
 | ***23*** | ${\color{lightgreen} Registration \space System}$ | [Link](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_Registration.java) | • map • string |
+| ***24*** | ${\color{yellow} Two \space Buttons}$ | [Link](https://codeforces.com/problemset/problem/520/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_TwoButtons.java) | • BFS • Graph |
 
 
 ---
