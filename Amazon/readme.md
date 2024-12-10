@@ -32,6 +32,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***18*** | ${\color{yellow} Implement \space a \space Phone \space Directory}$ | [Link](https://www.naukri.com/code360/problems/implement-a-phone-directory_1062666?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Low Level Design • Trie • Map • String | 
 | ***19*** | ${\color{lightgreen} Dora \space and \space Search}$| [Link](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Two pointers |
 | ***20*** | ${\color{yellow} Vika \space and \space the \space Bridge}$ | [Link](https://codeforces.com/problemset/problem/1848/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_VikaBridge.java) | • Maxheap • index map • Two pointers |   
+| ***21*** | ${\color{yellow} Cells \space not \space under \space Attack}$ | [Link](https://codeforces.com/problemset/problem/701/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_RookCells.java) | • math (nX + nY - XY) • set |
 
 
 ---
