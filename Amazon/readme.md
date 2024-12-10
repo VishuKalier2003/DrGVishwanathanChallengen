@@ -30,7 +30,8 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***16*** | ${\color{lightgreen} Powering \space The \space Hero}$ | [Link](https://codeforces.com/problemset/problem/1800/C1) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/PoweringTheHero.java) | • Maxheap • Greedy | 
 | ***17*** | ${\color{lightgreen} Polycarp \space Training}$ | [Link](https://codeforces.com/problemset/problem/1165/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Sorting • Greedy | 
 | ***18*** | ${\color{yellow} Implement \space a \space Phone \space Directory}$ | [Link](https://www.naukri.com/code360/problems/implement-a-phone-directory_1062666?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Low Level Design • Trie • Map • String | 
-| ***19*** | ${\color{lightgreen} Dora \space and \space Search}$| [Link](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Two Pointers |
+| ***19*** | ${\color{lightgreen} Dora \space and \space Search}$| [Link](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Two pointers |
+| ***20*** | ${\color{yellow} Vika \space and \space the \space Bridge}$ | [Link](https://codeforces.com/problemset/problem/1848/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/VikaBridge.java) | • Maxheap • index map • Two pointers |   
 
 
 ---
