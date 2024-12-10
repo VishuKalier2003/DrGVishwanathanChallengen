@@ -33,6 +33,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***19*** | ${\color{lightgreen} Dora \space and \space Search}$| [Link](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Polycarp.java) | • Two pointers |
 | ***20*** | ${\color{yellow} Vika \space and \space the \space Bridge}$ | [Link](https://codeforces.com/problemset/problem/1848/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_VikaBridge.java) | • Maxheap • index map • Two pointers |   
 | ***21*** | ${\color{yellow} Cells \space not \space under \space Attack}$ | [Link](https://codeforces.com/problemset/problem/701/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_RookCells.java) | • math (nX + nY - XY) • set • Big Integer |
+| ***22*** | ${\color{yellow} Books }$ | [Link](https://codeforces.com/problemset/problem/279/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_Books.java) | • binary search • sliding window |
 
 
 ---
