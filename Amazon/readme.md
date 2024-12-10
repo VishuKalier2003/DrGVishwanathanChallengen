@@ -36,6 +36,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***22*** | ${\color{yellow} Books }$ | [Link](https://codeforces.com/problemset/problem/279/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_Books.java) | • binary search • sliding window |
 | ***23*** | ${\color{lightgreen} Registration \space System}$ | [Link](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_Registration.java) | • map • string |
 | ***24*** | ${\color{yellow} Two \space Buttons}$ | [Link](https://codeforces.com/problemset/problem/520/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_TwoButtons.java) | • BFS • Graph |
+| ***25*** | ${\color{red} Maximum \space Path \space Sum \space of \space Two \space Leaves}$ | [Link](https://www.naukri.com/code360/problems/maximum-path-sum-between-two-leaves_794950?interviewProblemRedirection=true&company%5B%5D=Amazon&difficulty%5B%5D=Hard&sort_entity=company_count&sort_order=DESC&leftPanelTabValue=PROBLEM&count=25&page=2&search=&customSource=studio_nav) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/D5_RootPath.java) | • Local Paths • Global root path • post order DFS |
 
 
 ---
