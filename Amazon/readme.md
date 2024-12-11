@@ -43,6 +43,7 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***29*** | ${\color{yellow} Coin \space Rows}$ | [Link](https://codeforces.com/problemset/problem/1555/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/CoinRows.java) | • DP • top right • bottom left |
 | ***30*** | ${\color{lightgreen} Weather}$ | [Link](https://codeforces.com/problemset/problem/234/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Weather.java) | • pivot at each index • prefix sum |
 | ***31*** | ${\color{red} Karen \space and \space Coffee}$ | [Link](https://codeforces.com/problemset/problem/816/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/KarenCoffee.java) | • prefix sums • mark range start and end |
+| ***32*** | ${\color{yellow} Magic \space Powder}$ | [Link](https://codeforces.com/problemset/problem/670/D1) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/MagicPowder.java) | • binary search • Greedy |
 
 
 ---
