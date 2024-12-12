@@ -44,6 +44,9 @@ As part of the Amazon Week in the challenge, the focus is on solving questions i
 | ***30*** | ${\color{lightgreen} Weather}$ | [Link](https://codeforces.com/problemset/problem/234/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Weather.java) | • pivot at each index • prefix sum |
 | ***31*** | ${\color{red} Karen \space and \space Coffee}$ | [Link](https://codeforces.com/problemset/problem/816/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/KarenCoffee.java) | • prefix sums • mark range start and end |
 | ***32*** | ${\color{yellow} Magic \space Powder}$ | [Link](https://codeforces.com/problemset/problem/670/D1) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/MagicPowder.java) | • binary search • Greedy |
+| ***33*** | ${\color{yellow} Schedule \space Management}$ | [Link](https://codeforces.com/problemset/problem/1701/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/Schedule.java) | • binary search • Greedy |
+| ***34*** | ${\color{yellow} Sea \space and \space Islands}$ | [Link](https://codeforces.com/problemset/problem/544/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/SeaIslands.java) | • Matrix • DFS • string |
+| ***35*** | ${\color{red} Sonya \space and  \space Queries}$ | [Link](https://codeforces.com/problemset/problem/713/A) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Amazon/SonyaQueries.java) | • Suffix Trie • Low Level Design • string |
 
 
 ---
