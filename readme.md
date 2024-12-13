@@ -1,6 +1,6 @@
 # ${\color{lightblue} Dr. \space G. \space Vishwanathan \space Challenge}$
 
-The **Dr. G. Vishwanathan Challenge** is a self-driven initiative incorporated into VIT Bhopal Students to push the boundaries of problem-solving and coding skills by tackling some of the most challenging and popular interview questions across top tech companies. This journey is designed to foster consistent learning, enhance DSA proficiency, and build a strong foundation for cracking interviews at leading organizations.
+The **Dr. G. Vishwanathan Challenge** is a self-driven initiative incorporated into VIT Bhopal Students to push the boundaries of problem-solving and coding skills by tackling some of the most challenging and popular interview questions across top tech companies. This journey is designed to foster consistent learning, enhance DSA proficiency, and build a strong foundations for cracking interviews at leading organizations.
 
 
 ---
