@@ -12,6 +12,7 @@ As part of the Google Week in the challenge, the focus is on solving questions i
 
 | No. | Question Name | Link | Solution | Solution Approach |
 |-|-|-|-|-|
+| ***1*** | ${\color{lightgreen} Cakes}$ | [Link](https://www.naukri.com/code360/problems/cakes_6286388?interviewProblemRedirection=true&company%5B%5D=Google&sort_entity=recents&sort_order=DESC&leftPanelTabValue=PROBLEM) | [Solution]() | • character map • brute force |
 
 
 
