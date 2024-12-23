@@ -23,6 +23,11 @@ As part of the Google Week in the challenge, the focus is on solving questions i
 | ***9*** | ${\color{yellow} Serial \space Time}$ | [Link](https://codeforces.com/problemset/problem/60/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/SerialTime.java) | • 3D simulation • BFS |
 | ***10*** | ${\color{red} Letters \space shop}$ | [Link](https://codeforces.com/problemset/problem/1187/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/LettersShop.java) | • matrix for prefix index • string • map |
 | ***11*** | ${\color{red} Connect}$ | [Link](https://codeforces.com/problemset/problem/1130/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/Connect.java) | • matrix • BFS • simulation |
+| ***12*** | ${\color{lightgreen} Kevin's \space Permutation}$ | [Link](https://codeforces.com/contest/2048/problem/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/KevinPermutation) | • combinatorics • greedy |
+| ***13*** | ${\color{lightgreen} Simple \space Strings}$ | [Link](https://codeforces.com/problemset/problem/665/C) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/SimpleString) | • string • greedy |
+| ***14*** | ${\color{yellow} Playing \space Cubes}$ | [Link](https://codeforces.com/problemset/problem/257/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/Cubes) | • Game Theory • string • greedy |
+| ***15*** | ${\color{yellow} Simple \space Game}$ | [Link](https://codeforces.com/problemset/problem/570/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/SimpleGame) | • Game Theory |
+| ***16*** | ${\color{red} Seats}$ | [Link](https://codeforces.com/problemset/problem/1627/B) | [Solution](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/blob/main/Google/Codes/Seats) | • Game Theory • min heap of distance from corners | 
 
 
 
