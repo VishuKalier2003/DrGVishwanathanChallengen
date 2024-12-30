@@ -10,7 +10,7 @@ The **Dr. G. Vishwanathan Challenge** is a self-driven initiative incorporated i
 | Week No. | Company | Folder | Easy | Medium | Hard | 
 |-|-|-|-|-|-|
 | Week I | ${\color{lightgreen} Amazon}$ | [Folder](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/tree/main/Amazon) | ${\color{lightgreen} 12}$ | ${\color{yellow} 19}$ | ${\color{red} 10}$ |
-| Week II | ${\color{lightgreen} Google}$ | [Folder](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/tree/main/Google) | ${\color{lightgreen} 1}$ | ${\color{yellow} 1}$ | ${\color{red} 3}$ |
+| Week II | ${\color{lightgreen} Google}$ | [Folder](https://github.com/VishuKalier2003/DrGVishwanathanChallengen/tree/main/Google) | ${\color{lightgreen} 12}$ | ${\color{yellow} 18}$ | ${\color{red} 15}$ |
 
 ---
 
